@@ -1,7 +1,7 @@
-### Hi there 👋
+### Thanks for visiting my Github 👋
 
 <p align="center">
-  <a href="https://github.com/webmaster1022"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20master;10%2B%20years%20of%20coding%20experience;Blockchain%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/webmaster1022"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;6%2B%20years%20of%20coding%20experience;Full Stack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 > Contact Info
