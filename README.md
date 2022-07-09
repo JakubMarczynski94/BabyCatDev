@@ -8,6 +8,10 @@
 <p>Mail: webmaster19941022@gmail.com</p>
 <p>Skype: live:.cid.676d5d585a86a014</p>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Programming languages.
