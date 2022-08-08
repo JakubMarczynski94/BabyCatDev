@@ -12,9 +12,9 @@
 
 <br />
 
-<p align="center">
+<!-- <p align="center">
     <img alt="metrics" title="Github Metrics" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-metrics.svg" width="100%" />
-</p>
+</p> -->
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
