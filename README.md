@@ -8,9 +8,9 @@
 <p>Mail: webmaster19941022@gmail.com</p>
 <p>Skype: live:.cid.676d5d585a86a014</p>
 
-<h2 align="left" id="macropower-tech">Github Metrics</h2>
+<!-- <h2 align="left" id="macropower-tech">Github Metrics</h2>
 
-<br />
+<br /> -->
 
 <!-- <p align="center">
     <img alt="metrics" title="Github Metrics" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-metrics.svg" width="100%" />
