@@ -22,7 +22,8 @@
 
 > GitHub Profile Status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=webmaster1022&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webmaster1022&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+  <!--     <img src="https://github-readme-stats.vercel.app/api?username=webmaster1022&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">         
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webmaster1022&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="99.5%"> -->
 </p>
 <br />
 
@@ -39,8 +40,6 @@
   <a href="https://github.com/webmaster1022">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=webmaster1022&style=for-the-badge"/></a>
 </p>
-
-<br />
 
 <p align="center">
     <img alt="snake animation" title="Snake Animation" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-contribution-grid-snake.svg" width="100%" />
