@@ -42,11 +42,6 @@
 
 <br />
 
-> GitHub Visitors Count
-<p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/{webmaster1022}/count.svg" /></p> 
-</div>
-
 <p align="center">
     <img alt="snake animation" title="Snake Animation" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-contribution-grid-snake.svg" width="100%" />
 </p>
