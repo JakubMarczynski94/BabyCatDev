@@ -1,13 +1,13 @@
 ### Thanks for visiting my Github 👋
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/webmaster1022"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;6%2B%20years%20of%20coding%20experience;FullStack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 > Contact Info
 <p>Mail: webmaster19941022@gmail.com</p>
 <p>Skype: live:.cid.676d5d585a86a014</p>
-
+ -->
 <!-- <h2 align="left" id="macropower-tech">Github Metrics</h2>
 
 <br /> -->
