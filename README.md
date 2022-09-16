@@ -27,9 +27,9 @@
 </p>
 <br />
 
-<!-- > GitHub Activity Graph
+<!-- > GitHub Activity Graph -->
 <!-- https://github.com/webmaster1022/github-readme-activity-graph -->
-<a href="https://github.com/webmaster1022/webmaster1022"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=webmaster1022&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- <a href="https://github.com/webmaster1022/webmaster1022"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=webmaster1022&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 <br />
 
 <p align="right">
