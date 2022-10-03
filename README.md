@@ -1,4 +1,4 @@
-### Thanks for visiting my Github 👋
+<!-- ### Thanks for visiting my Github 👋 -->
 
 <p align="center">
   <a href="https://github.com/webmaster1022"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;6%2B%20years%20of%20coding%20experience;FullStack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -17,7 +17,9 @@
     <img alt="metrics" title="Github Metrics" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-metrics.svg" width="100%" />
 </p> -->
 
+<!--
 <h2 align="left" id="macropower-tech">Github Status</h2>
+-->
 
 <br />
 
@@ -41,7 +43,8 @@
   <a href="https://github.com/webmaster1022">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=webmaster1022&style=for-the-badge"/></a>
 </p>
-
+ -->
+ 
 <p align="center">
     <img alt="snake animation" title="Snake Animation" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-contribution-grid-snake.svg" width="100%" />
 </p>
@@ -54,4 +57,3 @@
       width="100%" 
     />
 </p>
- -->
