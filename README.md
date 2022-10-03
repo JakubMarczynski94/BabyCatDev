@@ -34,6 +34,7 @@
 <!-- https://github.com/webmaster1022/github-readme-activity-graph -->
 <!-- <a href="https://github.com/webmaster1022/webmaster1022"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=webmaster1022&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 <br />
+ -->
 
 <p align="right">
   <a href="https://github.com/webmaster1022?tab=repositories&sort=stargazers">
@@ -43,7 +44,6 @@
   <a href="https://github.com/webmaster1022">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=webmaster1022&style=for-the-badge"/></a>
 </p>
- -->
  
 <p align="center">
     <img alt="snake animation" title="Snake Animation" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-contribution-grid-snake.svg" width="100%" />
