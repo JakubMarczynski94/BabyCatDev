@@ -3,8 +3,6 @@
 <div align="center">
   <img src="images.jpg" align="center" style="width: 100%" />
 </div>  
-<br/>
-<br/>
 
 <!--
 <p align="center">
