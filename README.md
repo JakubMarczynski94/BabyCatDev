@@ -9,7 +9,7 @@
 </h3>
 
 <h3 align="center">
-![stack-hills](https://user-images.githubusercontent.com/104451862/205515363-34ce8ef3-4b48-4d77-8fa4-6446fafc5466.png)
+  <img src="Stack.png" align="center" style="width: 100%" />
 </h3>
 
 <!--
