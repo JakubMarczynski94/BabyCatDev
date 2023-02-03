@@ -11,7 +11,7 @@
 </h3>
 
 <h3 align="center">
-  <img src="Stack.png" align="center" style="width: 100%" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nestjs,js,ts,tailwind,figma,apollo,wordpress,java,spring,hibernate,kubernetes,docker,jenkins,maven,gradle,kafka,dotnet,aws,graphql,firebase,redis,fastapi,mysql,postgres,mongodb,vscode,visualstudio,vercel,github,gitlab" alt="Technologies" />
 </h3>
 
 <!--
