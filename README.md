@@ -26,18 +26,6 @@
     <img alt="metrics" title="Github Metrics" src="https://github.com/webmaster1022/webmaster1022/blob/main/github-metrics.svg" width="100%" />
 </p> -->
 
-<!--
-<h2 align="left" id="macropower-tech">Github Status</h2>
--->
-
-<br />
-
-<p align="center">    
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=webmaster1022&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=webmaster1022&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
-</p>
-<br />
-
 <!-- > GitHub Activity Graph -->
 <!-- https://github.com/webmaster1022/github-readme-activity-graph -->
 <!-- <a href="https://github.com/webmaster1022/webmaster1022"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=webmaster1022&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
