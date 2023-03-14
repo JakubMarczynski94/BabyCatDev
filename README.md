@@ -15,6 +15,18 @@
 </h3>
 
 <!--
+<h2 align="left" id="macropower-tech">Github Status</h2>
+-->
+
+<br />
+
+<p align="center">    
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=webmaster1022&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=webmaster1022&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
+</p>
+<br />
+
+<!--
 <p align="center">
   <a href="https://github.com/webmaster1022"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;6%2B%20years%20of%20coding%20experience;FullStack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p> -->
