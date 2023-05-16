@@ -13,3 +13,6 @@
 <h3 align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nodejs,nestjs,js,ts,figma,apollo,wordpress,java,spring,hibernate,kubernetes,docker,jenkins,maven,gradle,dotnet,aws,graphql,firebase,redis,fastapi,mysql,postgres,mongodb,vscode,visualstudio,github,gitlab" alt="Technologies" />
 </h3>
+<p align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philljohnson&theme=onedark" alt="mjtechworks" /></a> </p>
+</p>
