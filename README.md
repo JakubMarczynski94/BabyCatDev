@@ -4,6 +4,7 @@
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
+        <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
         <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
@@ -34,6 +35,7 @@
         <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="100" alt="Docker"></td>
         <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="100" alt="Dart"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="100" alt="Flutter"></td>
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab"></td>
         <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" title="Amazon Web Service" width="100" alt="Amazon Web Service"></td>
     </tr>
