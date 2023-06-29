@@ -1,5 +1,6 @@
 
 <p align="center">
+![](https://readme-typing-svg.herokuapp.com/?lines=💥Mobile%App%20Developer💥;✨Blockchain%20Developer✨;I%20love%20coding;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
@@ -59,17 +60,5 @@ Talking about Personal Stuffs:
 
 <div align="center">
     
-<!-- ### Magni's GitHub Streak
-    
-![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
--->
-### Magni's Most Used Langauges
-![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BabyCatDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
-    
-<!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smurf-Azrael&theme=react&line_height=40&hide=css) -->
 
-### Magni's Github Status
-![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=BabyCatDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
-
-![](https://readme-typing-svg.herokuapp.com/?lines=💥Mobile%App%20Developer💥;✨Blockchain%20Developer✨;I%20love%20coding;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
