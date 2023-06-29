@@ -1,7 +1,14 @@
 
 <p align="center">
 
+<div align="center">
+    
+<!-- ### Magni's GitHub Streak
+    
+![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
+-->
 
+![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
@@ -58,12 +65,5 @@ Talking about Personal Stuffs:
 - Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
 
 
-<div align="center">
-    
-<!-- ### Magni's GitHub Streak
-    
-![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
--->
 
-![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
