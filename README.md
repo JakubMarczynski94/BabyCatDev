@@ -73,18 +73,3 @@ Talking about Personal Stuffs:
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Mobile%App%20Developer💥;✨Blockchain%20Developer✨;I%20love%20coding;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
-<div>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bcExpt1123.bcExpt1123" />
-    <img align="right" src="https://img.shields.io/github/followers/bcExpt1123" />
-    <!-- <img align="right" src="https://img.shields.io/github/followers/bcExpt1123?label=Follow&style=social" /> -->
-</div>
-
-<h1 align="center"></h1>
- <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=smurf-Azrael&theme=github&count_private=true" /> -->
-<!-- <h1 align="center"></h1> -->
-</br>
-
-
-<!--<a href="https://bcexpt1123.github.io/examples/rubik3/">
-    <img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/screenshot.png?raw=true" title="Three.js" alt="Three.js">
-</a>-->
