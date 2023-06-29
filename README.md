@@ -4,8 +4,6 @@
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
-                    <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
-
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
         <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
@@ -29,8 +27,6 @@
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
     </tr>
     <tr>
-        <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="100" alt="Flutter"></td>
-
         <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++" width="100" alt="C++"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
         <td><img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux"></td>
