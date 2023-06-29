@@ -45,15 +45,15 @@ Talking about Personal Stuffs:
 
 🏆🏆🏆🎯🎯🎯✔✔✔💪💪💪
 
-I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
-Enterprise application development and support
-<b>Front-end</b> : Angular | Reactjs | Next.js | Vuejs | Vuex | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
-<b>Back-end</b> : Python | Node | Express | Django | GoLang | ASP.NET | Laravel | CodeIgniter | Apollo | Nginx | Apache
-<b>Mobile</b> : React-Native | Flutter | Ionic | Kotlin | Swift
-<b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore | MariaDB | Redis
-<b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
-<b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | Notion
-Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
+- I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
+- Enterprise application development and support
+- <b>Front-end</b> : Angular | Reactjs | Next.js | Vuejs | Vuex | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
+- <b>Back-end</b> : Python | Node | Express | Django | GoLang | ASP.NET | Laravel | CodeIgniter | Apollo | Nginx | Apache
+- <b>Mobile</b> : React-Native | Flutter | Ionic | Kotlin | Swift
+- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore | MariaDB | Redis
+- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
+- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | Notion
+- Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
 
 
 
