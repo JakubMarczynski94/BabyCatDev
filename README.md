@@ -46,8 +46,3 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
 </p>
-
-<p align=left>
-<img algin="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=BabyCatDev&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyCatDev&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
-</p>
